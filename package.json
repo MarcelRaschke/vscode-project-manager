@@ -1035,7 +1035,7 @@
         "eslint-config-vscode-ext": "^1.1.0",
         "terser-webpack-plugin": "^5.2.4",
         "ts-loader": "^9.2.5",
-        "typescript": "^4.4.4",
+        "typescript": "^4.8.4",
         "webpack": "^5.52.1",
         "webpack-cli": "^4.8.0",
         "mocha": "^9.1.3"
